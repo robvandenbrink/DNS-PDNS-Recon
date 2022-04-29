@@ -1,0 +1,1 @@
+curl -s -k ipinfo.io/$1/token=<API TOKEN>
