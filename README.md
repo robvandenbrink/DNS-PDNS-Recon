@@ -5,3 +5,6 @@ Or better yet, store those keys in a password safe and interface your script to 
 
 For a full writeup, check the Internet Storm Centre diary at:
 https://isc.sans.edu/diary/Using+Passive+DNS+sources+for+Reconnaissance+and+Enumeration/28596
+
+Also, recon scripts by DNS zone:
+https://isc.sans.edu/diary/DNS+Recon+Redux+Zone+Transfers+plus+a+time+machine+for+When+You+Cant+do+a+Zone+Transfer/29552
